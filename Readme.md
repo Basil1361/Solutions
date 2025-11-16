@@ -5,8 +5,8 @@ This repository contains solutions to various programming problems from competit
 
 ## Structure
 ```
-Problems/
-└── CodeForces/
+Problems
+└── CodeForces
 └── DeepML
 └── Kaggle
 └── LeetCode
