@@ -7,9 +7,10 @@ This repository contains solutions to various programming problems from competit
 ```
 Problems
 └── CodeForces
-└── DeepML
 └── Kaggle
+└── NeuraPrep
 └── LeetCode
+└── Project Euler
 └── TechnieDelight
 └── W3Schools
 ```
