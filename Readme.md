@@ -7,17 +7,12 @@ This repository contains solutions to various programming problems from competit
 ```
 Problems
 └── CodeForces
+└── CodeWars
+└── DataLemur
+└── Exercism
 └── Kaggle
 └── NeuraPrep
 └── LeetCode
 └── Project Euler
 └── TechnieDelight
-└── W3Schools
 ```
-## Resources
-- [CodeForces](https://codeforces.com/) - Competitive programming platform
-- [DeepML](https://www.deepml.com/) - Machine learning and AI problems
-- [Kaggle](https://www.kaggle.com/) - Data science competitions and datasets
-- [LeetCode](https://leetcode.com/) - Coding interview preparation
-- [TechieDelight](https://www.techiedelight.com/) - Data structures and algorithms
-- [W3Schools](https://www.w3schools.com/) - Web development tutorials and exercises
