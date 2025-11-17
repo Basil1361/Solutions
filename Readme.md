@@ -7,9 +7,9 @@ This repository contains solutions to various programming problems from competit
 ```
 Problems
 └── CodeForces
-└── CodeWars
+└── CodeWars (TS)
 └── DataLemur
-└── Exercism
+└── Exercism (TS)
 └── Kaggle
 └── LeetCode
 └── NeuraPrep
