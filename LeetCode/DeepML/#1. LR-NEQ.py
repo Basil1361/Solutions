@@ -8,4 +8,9 @@ def linear_regression_normal_equation(X: list[list[float]], y: list[float]) -> l
 	return theta
 
 print(linear_regression_normal_equation([[1, 1], [1, 2], [1, 3]], [1, 2, 3]))
+# The 1 is the presence of the bias,
+# y = x 
 print(linear_regression_normal_equation([[1, 3, 4], [1, 2, 5], [1, 3, 2]], [1, 2, 1]))
+# The 1 is the presence of the bias equation: 
+# y = 4 -x(b) - 0x(c)
+# where b is factor b, c is factor c
