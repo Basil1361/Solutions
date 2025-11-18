@@ -17,3 +17,8 @@ Problems
 └── Project Euler
 └── TechnieDelight
 ```
+
+## Upcoming Competitions 
+└── MCC 
+└── ICSC 
+└── Meta Hacker Cup 

@@ -4,7 +4,6 @@ for i in range(100):
     
 squared_value = value**2
 
-
 value2 = 0 
 for i in range(100):
     value2 += (i+1)**2
