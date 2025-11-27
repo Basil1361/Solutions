@@ -1,12 +1,9 @@
 def largest_prime_factor(n):
-    # Remove all factors of 2
     while n % 2 == 0:
         largest = 2
         n = n // 2
         
-    # now n is an odd number
     i = 3
-    # Complexity is n^1/2 = i, so i^2 = n
     while i * i <= n:
         while n % i == 0:
             largest = i
