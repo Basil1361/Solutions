@@ -10,15 +10,14 @@ Problems
 └── CodeWars (TS)
 └── DataLemur
 └── Exercism (TS)
+└── External
 └── Kaggle
 └── LeetCode
 └── NeuraPrep
-└── LeetCode
-└── Project Euler
+└── ProjectEuler
 └── TechnieDelight
 ```
-
 ## Upcoming Competitions 
 └── MCC 
-└── ICSC 
+└── ICSC / IYMC
 └── Meta Hacker Cup 
