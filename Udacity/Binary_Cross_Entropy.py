@@ -16,14 +16,14 @@ def cross_entropy(Y, P):
             
 # faster way:
 
-def cross_entropy(Y, P):
-    loss = 0
-    for y,p in zip(Y,P):
-        if y == 0:
-            loss += np.log(1-p)
-        elif y ==1:
-            loss += np.log(p)
-    return -loss
+# def cross_entropy(Y, P):
+#     loss = 0
+#     for y,p in zip(Y,P):
+#         if y == 0:
+#             loss += np.log(1-p)
+#         elif y ==1:
+#             loss += np.log(p)
+#     return -loss
 
 # How Zip works:
 # Y = [1, 0, 1]
